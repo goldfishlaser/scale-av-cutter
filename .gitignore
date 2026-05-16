@@ -6,6 +6,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# gh-pages
+dist/
+
 # Defaults
 workdir/
 *.json
