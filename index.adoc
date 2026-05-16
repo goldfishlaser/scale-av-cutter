@@ -1,0 +1,10 @@
+= Scale A/V Cutter
+:toc: left
+:toclevels: 2
+
+ifndef::backend-pdf[]
+image:https://img.shields.io/badge/Contribute%20on-GitHub-orange[Contribute on GitHub, link=https://github.com/socallinuxexpo/scale-av-cutter/] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/Download%20-PDF-blue[Download PDF, link=./scale-av-user-cutter.pdf]
+endif::[]
+
+* For instructions on using the SCALE AV cutter, see link:./user_manual/index.html[SCALE AV cutter end user manual] 
+* For SCALE AV developer instructions, see the link:./readme.adoc[README]. 
